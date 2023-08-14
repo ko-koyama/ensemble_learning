@@ -1,0 +1,9 @@
+[Ee]tc
+[Ii]mages
+[Ii]nclude
+[Ll]ib
+[Ss]cripts
+[Ss]hare
+*.csv
+.ipynb_checkpoints
+pyvenv.cfg
