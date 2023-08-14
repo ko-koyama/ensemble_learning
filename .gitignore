@@ -5,5 +5,8 @@
 [Ss]cripts
 [Ss]hare
 *.csv
+*.data
+*.all-data
+*.dat
 .ipynb_checkpoints
 pyvenv.cfg
